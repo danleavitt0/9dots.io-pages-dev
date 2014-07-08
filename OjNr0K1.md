@@ -3,10 +3,10 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-title: tester
+title: Tester
 objective: ""
 id: "danleavitt0-OjNr0K1"
-blurb: "#tester"
+blurb: "Writing out as much as I can to see what this format would look like. You could say that this is a #tester to see what will happen."
 
 ---
 
