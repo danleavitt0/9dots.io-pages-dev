@@ -6,6 +6,7 @@ type: lesson
 title: tester
 objective: "#tester"
 id: "danleavitt0-OjNr0K1"
+blurb: Something here
 
 ---
 
