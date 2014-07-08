@@ -4,9 +4,9 @@ views: 0
 published: true
 type: lesson
 title: tester
-objective: "#tester"
+objective: ""
 id: "danleavitt0-OjNr0K1"
-blurb: Something here
+blurb: "#tester"
 
 ---
 
