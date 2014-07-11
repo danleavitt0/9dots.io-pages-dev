@@ -58,7 +58,7 @@ Some examples of sensors from real life include:
 
 ## Guided Practice
 
-### Discuss
+### Discuss:
 To use a sensor, there are components students will need to understand:
 
 1. Power - Supplies electricity, such as a battery
