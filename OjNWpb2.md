@@ -10,19 +10,21 @@ objective: "By the end of the lesson, students will be able to define a power so
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 
 - [Little Bits](http://littlebits.cc)
 
-## Media and Handouts
+### Media and Handouts:
 
 - Little Bits worksheet
 
-## Preparations
+### Preparations:
 
 - Draw and example of a power source, sensor, output. An example could be a battery, touch sensors, light.
 
-## Project Time
+### Project Time:
 
 - 40 minutes
 
