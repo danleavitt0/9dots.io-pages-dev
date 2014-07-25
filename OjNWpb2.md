@@ -7,8 +7,8 @@ title: "Interactive Art Wall: Little Bits"
 id: "danleavitt0-OjNWpb2"
 blurb: "Students will use #LittleBits to learn about sensors and test input/output combinations to learn how it works."
 objective: "By the end of the lesson, students will be able to define a power source, identify a sensor, and describe how to connect the Little Bits to create a circuit."
-image: "http://uploads.9dots.io/OkxeMSA_md.jpg"
-fullImage: "http://uploads.9dots.io/OkxeMSA_lrg.jpg"
+image: "http://uploads.9dots.io/OkyvJhd_md.jpg"
+fullImage: "http://uploads.9dots.io/OkyvJhd_lrg.jpg"
 
 ---
 
