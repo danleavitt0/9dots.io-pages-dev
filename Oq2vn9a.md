@@ -10,6 +10,8 @@ lessons:
 id: "danleavitt0-Oq2vn9a"
 blurb: Summary
 title: Lesson
+image: "http://uploads.9dots.io/Oq2yY6D_md.jpg"
+fullImage: "http://uploads.9dots.io/Oq2yY6D_lrg.jpg"
 
 ---
 
