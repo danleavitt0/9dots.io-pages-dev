@@ -8,6 +8,8 @@ lessons:
   - "9dots-Ok1YEHv"
   - "9dots-Ok6mOes"
 id: "danleavitt0-Oq2vn9a"
+blurb: Summary
+title: Lesson
 
 ---
 
