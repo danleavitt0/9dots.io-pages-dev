@@ -5,7 +5,7 @@ published: true
 type: lesson
 title: "Interactive Art Wall: Little Bits"
 id: "danleavitt0-OjNWpb2"
-blurb: "Students will use #LittleBits to learn about sensors and test input/output combinations to learn how it works. Students will use #LittleBits to learn about sensors and test input/output combinations to learn how it works."
+blurb: "This project is a continuation of the Minecraft adventure from the [Minecraft Shelter](http://www.9dots.io/9dots/OqtrDDl) lesson. Students will use design thinking to develop a sustainable food source for their shelters. The planning process will take place on the [Design Thinking handout](http://uploads.9dots.io/OpIXxyC.docx). Once students have finalized their designs, they will create their farms in the game. For more information on how to provide students with materials check out this [Minecraftedu teacher cheat sheet](https://www.dropbox.com/s/ggi0lviuy58ws2w/Teacher%20Cheat%20Sheet.pdf?dl=0). To get more information on farming you can look at this [farming guide](http://minecraft.gamepedia.com/Tutorials/Crop_farming)."
 objective: 
   - three
   - four
