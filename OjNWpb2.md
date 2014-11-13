@@ -5,7 +5,7 @@ published: true
 type: lesson
 title: "Interactive Art Wall: Little Bits"
 id: "danleavitt0-OjNWpb2"
-blurb: "Students will use #LittleBits to learn about sensors and test input/output combinations to learn how it works."
+blurb: "Students will use #LittleBits to learn about sensors and test input/output combinations to learn how it works. Students will use #LittleBits to learn about sensors and test input/output combinations to learn how it works."
 objective: 
   - three
   - four
