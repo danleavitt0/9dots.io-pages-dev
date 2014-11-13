@@ -5,7 +5,7 @@ published: true
 type: lesson
 title: "Interactive Art Wall: Little Bits"
 id: "danleavitt0-OjNWpb2"
-blurb: "This project is a continuation of the Minecraft adventure from the  lesson. Students will use design thinking to develop a sustainable food source for their shelters. The planning process will take place on the . Once students have finalized their designs, they will create their farms in the game. For more information on how to provide students with materials check out this . To get more information on farming you can look at this [farming guide](http://minecraft.gamepedia.com/Tutorials/Crop_farming)"
+blurb: "This project is a continuation of the Minecraft adventure from the  lesson. Students will use design thinking to develop a sustainable food source for their shelters. The planning process will take place on the . Once students have finalized their designs, they will create their farms in the game. For more information on how to provide students with materials check out this . To get more information on farming you can look at this [farming guide](http://minecraft.gamepedia.com/Tutorials/Crop_farming)."
 objective: 
   - recognize fractions
   - convert fractions into decimals
