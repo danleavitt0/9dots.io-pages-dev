@@ -7,8 +7,9 @@ title: "Interactive Art Wall: Little Bits"
 id: "danleavitt0-OjNWpb2"
 blurb: "Students will use #LittleBits to learn about sensors and test input/output combinations to learn how it works."
 objective: 
-  - one
-  - two
+  - three
+  - four
+  - five
 image: "http://uploads.9dots.io/OkyvJhd_md.jpg"
 fullImage: "http://uploads.9dots.io/OkyvJhd_lrg.jpg"
 
