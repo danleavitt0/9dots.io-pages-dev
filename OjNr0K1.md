@@ -4,10 +4,7 @@ views: 0
 published: true
 type: lesson
 title: Stop Motion Animation
-objective: 
-  - innovate a solution
-  - design an application
-  - collaborate everything
+objective: []
 id: "danleavitt0-OjNr0K1"
 blurb: "Writing out as much as I can to see what this format would look like. You could say that this is a #tester to see what will happen. Finish w"
 image: "http://uploads.9dots.io/Okgomyg_md.jpg"
