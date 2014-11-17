@@ -9,7 +9,6 @@ blurb: "This project is a continuation of the Minecraft adventure from the  less
 objective: 
   - convert fractions into decimals
   - demonstrate learning by completing an obstacle course for the robot
-  - percents
   - recognize fractions
 image: "http://uploads.9dots.io/OkyvJhd_md.jpg"
 fullImage: "http://uploads.9dots.io/OkyvJhd_lrg.jpg"
